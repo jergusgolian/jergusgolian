@@ -1,3 +1,5 @@
+<img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=true&hide=css">
+
 # About Me
 I study computer science in Bratislava, capital city of Slovakia.
 # Languages

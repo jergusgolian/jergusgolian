@@ -1,7 +1,7 @@
 # About Me
 I study computer science in Bratislava, capital city of Slovakia.
 
-<img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=true&hide=css">
+<img src="https://github-readme-stats-one-blue-54.vercel.app/api/?username=jergusgolian&hide_title=true">
 
 # I worked with
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffffff)

@@ -1,7 +1,7 @@
 # About Me
 I study computer science in Bratislava, capital city of Slovakia.
 <p align="center">
-  <img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=true&theme=dark" height="150">‎ ‎ ‎ <img src="https://github.r2v.ch/codewars?user=jergusgolian&stroke=white&theme=gradient&name=true" height="150">
+  <img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=true&theme=dark" height="150">‎ ‎ ‎ <img src="https://github.r2v.ch/codewars?user=jergusgolian&stroke=white&theme=gradient&name=true&hide_clan=true" height="150">
 
 
 # I worked with

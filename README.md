@@ -3,7 +3,7 @@
 
 </br>
 <p align="center">
-  <img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=true&theme=dark" height="150">‎ ‎ ‎ <img src="https://github.r2v.ch/codewars?user=jergusgolian&stroke=white&theme=gradient&name=true&hide_clan=true" height="150">
+  <img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=false" height="150">‎ ‎ ‎ <img src="https://github.r2v.ch/codewars?user=jergusgolian&stroke=white&theme=gradient_purple_light&name=true&hide_clan=true&hide_title=true" height="150">
 </br></br>
 
 - 🔭 I’m currently working on **[my portfolio (web-site)](https://github.com/jergusgolian/portfolio)**

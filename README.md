@@ -1,14 +1,14 @@
-<p align="center">
-  <img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=true&theme=dark" height="150">‎ ‎ ‎ <img src="https://github.r2v.ch/codewars?user=jergusgolian&stroke=white&theme=gradient&name=true&hide_clan=true" height="150">
-
 <h1>Hi 👋, I'm Jergus Golian</h1>
 <h3>A passionate frontend developer from Slovakia</h3>
 
-- 🔭 I’m currently working on **my portfolio (web-site)**
+<p align="center">
+  <img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=true&theme=dark" height="150">‎ ‎ ‎ <img src="https://github.r2v.ch/codewars?user=jergusgolian&stroke=white&theme=gradient&name=true&hide_clan=true" height="150">
+
+- 🔭 I’m currently working on **[my portfolio (web-site)](/portfolio)**
 
 - 🌱 I’m currently learning **python, html and css.**
 
-- 👯 I’m looking to collaborate on **enything, really**
+- 👯 I’m looking to collaborate on **anything, really**
 
 - 👨‍💻 Showcase of my projects available at [my site](jergusgolian.github.io/portfolio) (maybe not all of them)
 

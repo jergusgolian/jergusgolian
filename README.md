@@ -14,7 +14,7 @@
 
 - 👨‍💻 Showcase of my projects available at [my site](jergusgolian.github.io/portfolio) (maybe not all of them)
 
-- 📫 How to reach me at **jergus.golian@gmail.com** or at **[@jergus_makes_stuff](https://intagram.com/@jergus_makes_stuff)**
+- 📫 You can reach me at **jergus.golian@gmail.com** or at **[@jergus_makes_stuff](https://intagram.com/@jergus_makes_stuff)**
 
 - ⚡ Fun fact **I like ✨productivity✨**
 

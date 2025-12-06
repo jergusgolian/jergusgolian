@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **anything, really**
 
-- 👨‍💻 Showcase of my projects available at [my site](jergusgolian.github.io/portfolio) (maybe not all of them)
+- 👨‍💻 Showcase of my projects available at [my site](https://jergusgolian.github.io/portfolio) (maybe not all of them)
 
 - 📫 You can reach me at **jergus.golian@gmail.com** or at **[@jergus_makes_stuff](https://intagram.com/jergus_makes_stuff)**
 

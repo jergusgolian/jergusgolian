@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Jergus Golian</h1>
+<h1>Hi 👋, I'm Jerguš Golian</h1>
 <h3>A passionate frontend developer from Slovakia</h3>
 
 </br>
@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **anything, really**
 
-- 👨‍💻 Showcase of my projects available at [my site](https://jergusgolian.github.io/portfolio) (maybe not all of them)
+- 👨‍💻 Showcase of my projects available on [my site](https://jergusgolian.github.io/portfolio) (maybe not all of them)
 
 - 📫 You can reach me at **jergus.golian@gmail.com** or at **[@jergus_makes_stuff](https://intagram.com/jergus_makes_stuff)**
 

@@ -1,11 +1,6 @@
 <h1>Hi 👋, I'm Jerguš Golian</h1>
 <h3>A passionate frontend developer from Slovakia</h3>
 
-</br>
-<p align="center">
-  <img src="https://github-readme-stats-one-blue-54.vercel.app/api/?username=jergusgolian&hide_title=true" height="110"> ‎ ‎ <img src="https://github-readme-stats-one-blue-54.vercel.app/api/top-langs/?username=jergusgolian&hide_title=true" height="110">‎ ‎ ‎ <img src="https://github.r2v.ch/codewars?user=jergusgolian&stroke=white&theme=gradient_purple_light&name=true&hide_clan=true&hide_title=true" height="110">‎
-</br>
-
 - 🔭 I’m currently working on **[my portfolio (web-site)](https://github.com/jergusgolian/portfolio)**
 
 - 🌱 I’m currently learning **python, html and css.**
